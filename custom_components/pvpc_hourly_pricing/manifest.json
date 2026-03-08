@@ -10,5 +10,5 @@
   "loggers": ["aiopvpc"],
   "quality_scale": "platinum",
   "requirements": ["aiopvpc @ git+https://github.com/jamboles/aiopvpc"],
-  "version": "1.2.2"
+  "version": "1.2.3"
 }
