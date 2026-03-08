@@ -1,5 +1,5 @@
 {
-  "domain": "pvpc_hourly_pricing",
+  "domain": "pvpc_hourly_pricing_ajp",
   "name": "Spain electricity hourly pricing (PVPC)",
   "codeowners": ["@azogue"],
   "config_flow": true,
