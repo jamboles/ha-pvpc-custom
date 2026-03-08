@@ -9,6 +9,6 @@
   "issue_tracker": "https://github.com/jamboles/ha-pvpc-custom/issues",
   "loggers": ["aiopvpc"],
   "quality_scale": "platinum",
-  "requirements": ["aiopvpc>=4.3.1"],
+  "requirements": ["aiopvpc @ git+https://github.com/jamboles/aiopvpc"],
   "version": "1.2.1"
 }
